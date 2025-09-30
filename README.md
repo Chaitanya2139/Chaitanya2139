@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/chaitanya_2139" target="blank"><img src="https://img.shields.io/twitter/follow/chaitanya_2139?logo=twitter&style=for-the-badge" alt="chaitanya_2139" /></a> </p>
 
-- 🌱 I’m currently learning **Java and DSA**
+- 🌱 I’m currently learning **AI and ML and a full stack webdev**
 
 - 📫 How to reach me **awasthichaitanya7@gmail.com**
 
