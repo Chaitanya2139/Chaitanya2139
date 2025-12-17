@@ -57,10 +57,10 @@ I am a developer from **India** passionate about bridging the gap between comple
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitanya2139&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Chaitanya's Stats" />
+      <td width="50%">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitanya2139&show_icons=true&theme=tokyonight&hide_border=true" alt="Chaitanya's Stats" />
       </td>
-      <td>
+      <td width="50%">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya2139&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Chaitanya's Top Langs" />
       </td>
     </tr>
@@ -68,8 +68,15 @@ I am a developer from **India** passionate about bridging the gap between comple
   
   <br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanya2139&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
-</div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanya2139&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true&hide_title=true" alt="Chaitanya's Activity Graph" />
+
+  <br>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chaitanya2139/chaitanya2139/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chaitanya2139/chaitanya2139/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chaitanya2139/chaitanya2139/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
