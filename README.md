@@ -1,6 +1,6 @@
 <div align="center">
  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3593F2&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Chaitanya+👋;Full+Stack+Developer+💻;AI%2FML+Enthusiast+🤖;Building+Modern+Web+Experiences+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3593F2&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Chaitanya+👋;Full+Stack+Developer+💻;AI%2FML+Enthusiast+🤖;Building+Modern+Web+Apps+🚀" alt="Typing SVG" />
 
   <p>
     <a href="https://linkedin.com/in/chaitanya_3139">
