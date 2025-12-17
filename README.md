@@ -34,6 +34,10 @@ I am a developer from **India** passionate about bridging the gap between comple
 * 🎨 I love using **GSAP & Three.js** to create immersive web experiences.
 * 🧠 Fun fact: **I believe AI is the new electricity.**
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+</div>
+
 ---
 
 ## 🛠️ Technologies & Tools
